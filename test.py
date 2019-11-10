@@ -6,4 +6,5 @@ if test ==1:
 else:
   print("oh no")
   
+  print("finished")
   
